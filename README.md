@@ -1,28 +1,16 @@
 # React Essentials (Vite)
 
-A small practice project for core React concepts — **components**, **props**, **state**, **JSX**, **lists & keys**, **events**, **conditional rendering**, and a sprinkle of basic hooks like `useState`/`useEffect`. Built with **Vite** for a fast DX.
+A small practice project for core React concepts — **components**, **props**, **state**, **JSX**, **lists & keys**, **events**, **conditional rendering**, and a sprinkle of basic hooks like `useState`. Built with **Vite**.
 
 > Live page (GitHub Pages): **[https://devabdisa.github.io/React-essentials/](https://devabdisa.github.io/React-essentials/)**
 
----
 
-## What you’ll learn / find in here
-
-* Splitting UI into **reusable components**
-* Passing data with **props**
-* Managing **state** and updating UI reactively
-* Writing UI with **JSX**
-* Handling **events** and **conditional rendering**
-* Rendering **lists** and using **keys** correctly
-* Lifting state up and composing components
-
----
 
 ## Tech stack
 
 * **React 18**
 * **Vite** (fast dev server & build)
-* **Node.js** (v18+ recommended)
+
 
 ---
 
@@ -91,6 +79,3 @@ This repo is mainly for practice/learning, but PRs that improve examples, commen
 
 ---
 
-## License
-
-No explicit license provided. If you plan to reuse code, open an issue to discuss licensing or add one (e.g., MIT).
